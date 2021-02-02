@@ -3,13 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
 ## Autor
-Tony Ishangu
+Bunei Shadrack
 
 ## Description
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote.
 
 ## Live Page
-https://tonyishangu.github.io/quoteIP/
+
 
 ## Development server
 
@@ -51,13 +51,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [tonyishangu@gmail.com]
+If you have any question or contributions, please email me at [buneishadrack5@gmail.com]
 
 ## License
 
 MIT License
 
-Copyright (c) 2020 Tonnie Ishangu
+Copyright (c) 2021  bunei shadrack
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
